@@ -186,7 +186,7 @@ export default function Signup() {
               "other"
             )}
           />
-          <label htmlFor="other">Other</label>
+          <label htmlFor="other">Others</label>
         </div>
       </fieldset>
 
